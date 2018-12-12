@@ -8,6 +8,8 @@ output:
     toc_float: true
 ---
 
+![](img/git_avatar.png){width=100px}
+
 
 ## About
 
