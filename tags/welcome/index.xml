@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Academic</title>
+    <link>/tags/welcome/</link>
+    <description>Recent content in Welcome on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description> Welcome We are data-train! Training data science. Using R Studio in the cloud and markdown http://rmarkdown.rstudio.com.
+What you find here is just the beginning stage.
+ </description>
+    </item>
+    
+  </channel>
+</rss>
